@@ -1,0 +1,19 @@
+{
+  "name": "Котоверсум — 3D RPG, где всё — кошки",
+  "short_name": "Котоверсум",
+  "description": "3D RPG про кошек: огромный материк, бесконечный мир и навыки, кооператив по WebRTC без сервера.",
+  "lang": "ru",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#1b1530",
+  "theme_color": "#1b1530",
+  "categories": ["games"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
